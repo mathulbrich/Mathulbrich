@@ -1,6 +1,6 @@
 ## Hi, I'm Mathaus 👋
 
-* _Software engineer graduating at [University of Joinville](https://www.univille.edu.br)._
+* _Graduated Software Engineer at [University of Joinville](https://www.univille.edu.br)._
 * _Back-End Developer Consultant at [Vizir Software Studio](https://vizir.com.br)._
 
 
