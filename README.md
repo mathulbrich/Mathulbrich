@@ -1,7 +1,7 @@
 ## Hi, I'm Mathaus 👋
 
 * _Graduated Software Engineer at [University of Joinville](https://www.univille.edu.br)._
-* _Back-End Developer Consultant at [Vizir Software Studio](https://vizir.com.br)._
+* _Back-End Developer Consultant at [FCamara](https://www.fcamara.com.br)._
 
 
 ### Professional info
@@ -17,7 +17,7 @@ public class DeveloperInfo {
       .withLanguages("Java", "Python", "Javascript", "Typescript")
       .withArchitectures("Monolithic", "Microservices", "Event-Driven", "MVC")
       .withApis("REST", "SOAP", "GraphQL")
-      .withCloud("Amazon Web Services")
+      .withCloud("AWS", "GCP")
       .build();
     
   }
