@@ -1,7 +1,7 @@
 ## Hi, I'm Mathaus 👋
 
 * _Graduated Software Engineer at [University of Joinville](https://www.univille.edu.br)._
-* _Back-End Developer Consultant at [FCamara](https://www.fcamara.com.br)._
+* _Back-End Developer Consultant at [FCamara](https://fcamara.com)._
 
 
 ### Professional info
